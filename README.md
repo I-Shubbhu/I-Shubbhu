@@ -39,6 +39,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-Blooded-Shubh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Code-Blooded-Shubh" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=I-Shubbhu&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="I-Shubbhu" /></p> 
 
-<p>&nbsp;<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=Code-Blooded-Shubh&show_icons=true&theme=tokyonight&locale=en" alt="Code-Blooded-Shubh" /></p>
+<p>&nbsp;<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=I-Shubbhu&show_icons=true&theme=tokyonight&locale=en" alt="I-Shubbhu" /></p>
